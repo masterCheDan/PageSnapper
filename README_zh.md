@@ -37,7 +37,7 @@
 ```bash
 git clone git@github.com:masterCheDan/PageSnapper.git
 cd PageSnapper
-python screenshot.py
+python PageSnapper.py
 ```
 
 ## 🧠 注意事项

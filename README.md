@@ -37,7 +37,7 @@ Make sure you have installed these as follow:
 ```bash
 git clone git@github.com:masterCheDan/PageSnapper.git
 cd PageSnapper
-python screenshot.py
+python PageSnapper.py
 ```
 
 ## 🧠 Notes
