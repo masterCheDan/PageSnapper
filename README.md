@@ -32,6 +32,8 @@ Make sure you have installed these as follow:
 - PIL / Pillow (for image handling)
 - PyAutoGUI (for screen capturing)
 
+## 🚀 Getting Started
+
 ```bash
 git clone git@github.com:masterCheDan/PageSnapper.git
 cd PageSnapper
